@@ -1,0 +1,16 @@
+bin
+data
+lab
+results
+trackchanges-0.7.0
+agujournal2019.cls
+agujournaltemplate.aux
+agujournaltemplate.bbl
+agujournaltemplate.blg
+agujournaltemplate.fdb_latexmk
+agujournaltemplate.fls
+agujournaltemplate.log
+agujournaltemplate.synctex.gz
+agutexSI2019.cls
+si_template_2019.tex
+trackchanges.sty
