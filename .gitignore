@@ -1,4 +1,3 @@
-bin
 data
 lab
 results
@@ -14,3 +13,13 @@ agujournaltemplate.synctex.gz
 agutexSI2019.cls
 si_template_2019.tex
 trackchanges.sty
+
+2mm_resolution
+5mm_resolution
+data2
+EGU2024
+monthly_averages.csv
+Screenshot (380).png
+khider02.py
+khider03.py
+
