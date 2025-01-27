@@ -1,0 +1,10 @@
+DataFile              test_data.msf
+DataDirectory         fin_files
+interpolate           no
+ScaleFactor           1.0
+PhysicalUnit          º/s
+Verbose               no
+TS_format             msf
+ColumnName            gyroscope
+UseResiduals          yes
+PlotName              gyroscope

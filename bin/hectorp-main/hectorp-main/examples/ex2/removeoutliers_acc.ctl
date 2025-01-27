@@ -1,0 +1,9 @@
+DataFile              test_data.msf
+DataDirectory         obs_files
+OutputFile            pre_files/test_data.msf
+ScaleFactor           1.0e5
+PhysicalUnit          mGal
+IQ_factor             3
+TS_format             msf
+ColumnName            accelerometer
+PlotName              test_data_acc_outliers

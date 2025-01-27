@@ -1,0 +1,9 @@
+DataFile              test_data.msf
+DataDirectory         pre_files
+OutputFile            pre_files/test_data.msf
+ScaleFactor           1.0
+PhysicalUnit          º/s
+IQ_factor             3
+TS_format             msf
+ColumnName            gyroscope
+PlotName              test_data_gyr_outliers
